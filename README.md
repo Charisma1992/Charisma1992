@@ -1,7 +1,4 @@
 <h1 align="center">Blockchain Engineer</h1>
-
-<img align="center" justify = "center" height = "450em" width = "450em" src = "./github_logo.jpg">
-
 <p align="center">
   <div>
     <h2>🌟 About Me:</h2>
